@@ -1,1 +1,5 @@
 # Jarkom
+
+Nama
+Nrp
+Kelas
